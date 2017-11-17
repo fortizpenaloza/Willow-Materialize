@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FrontendComponentSupplier",
+	"category" : "Willow-Materialize-Frontend",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"libraries"
+	],
+	"name" : "MaterializeComponentSupplier",
+	"type" : "normal"
+}

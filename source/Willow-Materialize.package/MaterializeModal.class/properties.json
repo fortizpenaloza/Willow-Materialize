@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "JQPlugin",
+	"category" : "Willow-Materialize-Plugins",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"functionName"
+	],
+	"name" : "MaterializeModal",
+	"type" : "normal"
+}

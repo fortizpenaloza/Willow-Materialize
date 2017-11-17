@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"addContent:" : "fortizpenaloza 11/1/2017 00:21",
+		"renderColumnsAt:on:" : "fortizpenaloza 11/1/2017 00:43",
+		"columnsPerRow:" : "fortizpenaloza 11/1/2017 00:20",
+		"numberOfRows" : "fortizpenaloza 11/1/2017 00:43",
+		"forSmallDevices" : "fortizpenaloza 11/1/2017 00:47",
+		"initialize" : "fortizpenaloza 11/1/2017 00:22",
+		"forMediumDevices" : "fortizpenaloza 11/1/2017 00:47",
+		"contentIndexAt:and:" : "fortizpenaloza 11/1/2017 00:43",
+		"columnCountPerRow" : "fortizpenaloza 11/1/2017 00:43",
+		"buildApplying:" : "fortizpenaloza 11/1/2017 00:42",
+		"renderContentAt:spanning:on:" : "fortizpenaloza 11/1/2017 00:44"
+	},
+	"class" : { }
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "WillowComponentBuilder",
+	"category" : "Willow-Materialize-Builders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"content",
+		"additionalFooterButtons",
+		"footerCloseButton",
+		"dialogCommand"
+	],
+	"name" : "MaterializeModalBuilder",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WillowOnlineLibrary",
+	"category" : "Willow-Materialize-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaterializeOnlineLibrary",
+	"type" : "normal"
+}

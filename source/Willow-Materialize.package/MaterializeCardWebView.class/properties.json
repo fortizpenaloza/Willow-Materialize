@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "WAPresenter",
+	"category" : "Willow-Materialize",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"content",
+		"actions",
+		"componentCommand"
+	],
+	"name" : "MaterializeCardWebView",
+	"type" : "normal"
+}

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "WillowComponentBuilder",
+	"category" : "Willow-Materialize-Builders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"content",
+		"titleOptional",
+		"actions",
+		"imageOptional",
+		"cardCommand",
+		"fabOptional"
+	],
+	"name" : "MaterializeCardBuilder",
+	"type" : "normal"
+}

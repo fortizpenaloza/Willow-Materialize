@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WAPresenter",
+	"category" : "Willow-Materialize-WebViews",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"footer",
+		"dialog"
+	],
+	"name" : "MaterializeModalWebView",
+	"type" : "normal"
+}

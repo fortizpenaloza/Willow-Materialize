@@ -1,0 +1,4 @@
+*Willow-Materialize
+halfwayFloatingAcitonButton
+
+	^self commmandStyledWith: styleProviderBinding content halfwayFloatingActionButton 

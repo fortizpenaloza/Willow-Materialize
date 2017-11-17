@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "WillowComponentBuilder",
+	"category" : "Willow-Materialize-Frontend",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"columnSpec",
+		"contents",
+		"rowCommand",
+		"cellCommand",
+		"columnBreakpointBlock"
+	],
+	"name" : "MaterializeGridBuilder",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WillowTestCase",
+	"category" : "Willow-Materialize-Tests-Frontend",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaterializeComponentSupplierTest",
+	"type" : "normal"
+}

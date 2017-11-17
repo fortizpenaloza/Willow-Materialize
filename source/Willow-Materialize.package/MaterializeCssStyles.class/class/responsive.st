@@ -1,0 +1,4 @@
+Tables
+responsive
+	
+	^'responsive-table'

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WebComponentCommand",
+	"category" : "Willow-Materialize-Frontend",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaterializeSelectCommand",
+	"type" : "normal"
+}
