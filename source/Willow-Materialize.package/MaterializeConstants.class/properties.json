@@ -1,16 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "WAPresenter",
+	"super" : "Object",
 	"category" : "Willow-Materialize-WebViews",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"title",
-		"content",
-		"actions",
-		"componentCommand"
-	],
-	"name" : "MaterializeCardWebView",
+	"instvars" : [ ],
+	"name" : "MaterializeConstants",
 	"type" : "normal"
 }

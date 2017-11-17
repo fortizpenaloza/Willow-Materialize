@@ -1,4 +1,4 @@
 *Willow-Materialize
 inputField
 	
-	^ self commmandStyledWith: styleProviderBinding content inputField
+	^ self commandStyledWith: styleProviderBinding content inputField

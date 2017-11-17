@@ -1,4 +1,4 @@
 *Willow-Materialize
 validate
 	
-	^ self commmandStyledWith: styleProviderBinding content validate
+	^ self commandStyledWith: styleProviderBinding content validate

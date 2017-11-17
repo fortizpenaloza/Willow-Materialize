@@ -1,4 +1,4 @@
 *Willow-Materialize
 wavesEffect
 
-	^ self commmandStyledWith: styleProviderBinding content wavesEffect
+	^ self commandStyledWith: styleProviderBinding content wavesEffect

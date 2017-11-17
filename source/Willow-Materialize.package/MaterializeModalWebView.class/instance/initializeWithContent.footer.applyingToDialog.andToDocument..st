@@ -8,9 +8,9 @@ initializeWithContent: aBodyView footer: aBootstrapModalFooter applyingToDialog:
 
 			content := GenericContainerWebView
 				wrapping: aBodyView
-				applying: [ :container | container addClass bootstrap modalContent ].
+				applying: [ :container | container addClass materialize modalContent ].
 
 			canvas
 				render: content;
 				render: footer ]
-		applying: [ :container | container addClass bootstrap modal + aDialogCommand ]
+		applying: [ :container | container addClass materialize modal + aDialogCommand ]

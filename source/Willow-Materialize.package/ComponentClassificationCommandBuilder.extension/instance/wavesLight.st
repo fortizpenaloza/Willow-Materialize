@@ -1,4 +1,4 @@
 *Willow-Materialize
 wavesLight
 
-	^ self commmandStyledWith: styleProviderBinding content wavesLight
+	^ self commandStyledWith: styleProviderBinding content wavesLight

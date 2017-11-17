@@ -1,4 +1,4 @@
 *Willow-Materialize
 darkerBy: steps
 
-	^ self commmandStyledWith: ( styleProviderBinding content darkerBy: steps )
+	^ self commandStyledWith: ( styleProviderBinding content darkerBy: steps )

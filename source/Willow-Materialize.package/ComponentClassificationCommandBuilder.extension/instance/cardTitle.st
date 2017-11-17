@@ -1,4 +1,4 @@
 *Willow-Materialize
 cardTitle
 
-	^ self commmandStyledWith: styleProviderBinding content cardTitle
+	^ self commandStyledWith: styleProviderBinding content cardTitle

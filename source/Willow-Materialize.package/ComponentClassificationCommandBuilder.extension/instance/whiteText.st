@@ -1,4 +1,4 @@
 *Willow-Materialize
 whiteText
 
-	^ self commmandStyledWith: styleProviderBinding content whiteText
+	^ self commandStyledWith: styleProviderBinding content whiteText
