@@ -1,0 +1,4 @@
+navigation
+fixedSideNavigation
+
+	^ 'sidenav-fixed'

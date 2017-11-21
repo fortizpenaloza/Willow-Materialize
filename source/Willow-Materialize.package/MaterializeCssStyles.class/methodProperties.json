@@ -1,13 +1,16 @@
 {
 	"instance" : { },
 	"class" : {
+		"buttonCollapse" : "fortizpenaloza 11/21/2017 11:54",
+		"wavesEffect" : "fortizpenaloza 10/27/2017 19:34",
 		"darkerBy:" : "fortizpenaloza 11/5/2017 08:45",
 		"validate" : "fortizpenaloza 10/29/2017 00:37",
 		"row" : "fortizpenaloza 10/28/2017 00:12",
 		"blueGrey" : "fortizpenaloza 11/5/2017 08:49",
 		"modal" : "fortizpenaloza 11/17/2017 15:23",
-		"modalContent" : "fortizpenaloza 11/17/2017 15:24",
 		"button" : "fortizpenaloza 10/27/2017 20:02",
+		"modalContent" : "fortizpenaloza 11/17/2017 15:24",
+		"fixedSideNavigation" : "fortizpenaloza 11/21/2017 13:46",
 		"striped" : "fortizpenaloza 10/30/2017 23:59",
 		"inputField" : "fortizpenaloza 10/28/2017 00:48",
 		"bordered" : "fortizpenaloza 10/30/2017 23:58",
@@ -18,14 +21,16 @@
 		"highlight" : "fortizpenaloza 10/31/2017 00:12",
 		"whiteText" : "fortizpenaloza 11/5/2017 09:07",
 		"wavesLight" : "fortizpenaloza 10/27/2017 20:04",
+		"circle" : "fortizpenaloza 11/21/2017 11:58",
 		"columnMedium:" : "fortizpenaloza 11/4/2017 14:41",
 		"halfwayFloatingActionButton" : "fortizpenaloza 11/6/2017 11:47",
 		"centered" : "fortizpenaloza 10/31/2017 00:12",
 		"container" : "fortizpenaloza 11/12/2017 10:34",
 		"cardTitle" : "fortizpenaloza 11/5/2017 10:16",
 		"cardContent" : "fortizpenaloza 11/4/2017 14:07",
+		"sideNavigation" : "fortizpenaloza 11/21/2017 13:45",
 		"column" : "fortizpenaloza 10/28/2017 12:48",
-		"wavesEffect" : "fortizpenaloza 10/27/2017 19:34",
+		"hideOnLargeOnly" : "fortizpenaloza 11/21/2017 12:03",
 		"cardImage" : "fortizpenaloza 11/5/2017 10:19"
 	}
 }
