@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WAPresenter",
+	"category" : "Willow-Materialize-Views",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"unorderedListWebView"
+	],
+	"name" : "MaterializeSlideOutMenu",
+	"type" : "normal"
+}

@@ -1,4 +1,4 @@
 navigation
-fixedSideNavigation
+sidenavFixed
 
 	^ 'sidenav-fixed'

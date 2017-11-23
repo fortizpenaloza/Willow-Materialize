@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WillowComponentBuilder",
+	"category" : "Willow-Materialize-Builders",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"slideOutMenuCommand",
+		"elements"
+	],
+	"name" : "MaterializeSlideOutMenuBuilder",
+	"type" : "normal"
+}
