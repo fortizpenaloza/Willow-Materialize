@@ -3,7 +3,7 @@ initialize
 
 	super initialize.
 	columnSpec := #(6 6).
-	rowCommand := [ :row | row addClass bootstrap row ] asWebComponentCommand.
+	rowCommand := [ :row | row addClass materialize row ] asWebComponentCommand.
 	cellCommand := [  ] asWebComponentCommand.
 	self forMediumDevices.
 	contents := OrderedCollection new

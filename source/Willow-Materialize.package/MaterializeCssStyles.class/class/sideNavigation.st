@@ -1,4 +1,4 @@
-navigation
+side bar navigation
 sideNavigation
 
 	^ 'sidenav'

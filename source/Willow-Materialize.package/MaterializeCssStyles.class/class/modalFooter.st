@@ -1,0 +1,4 @@
+modal
+modalFooter
+
+	^ 'modal-footer'
