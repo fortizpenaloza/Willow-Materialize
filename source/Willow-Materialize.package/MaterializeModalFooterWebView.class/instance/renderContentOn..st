@@ -4,5 +4,5 @@ renderContentOn: aCanvas
 	aCanvas
 		render:
 			(GenericContainerWebView
-				wrapping: 'Footer'
+				wrapping: buttons
 				applying: [ :container | container addClass materialize modalFooter ])
