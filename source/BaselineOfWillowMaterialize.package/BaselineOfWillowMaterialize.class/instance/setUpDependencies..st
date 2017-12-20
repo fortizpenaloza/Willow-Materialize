@@ -4,9 +4,9 @@ setUpDependencies: spec
 	spec
 		baseline: 'Seaside3'
 			with: [ spec repository: 'github://SeasideSt/Seaside:v3.2.4/repository' ];
-		project: 'Seaside3-Tests'
+		project: 'Seaside3-Development'
 			copyFrom: 'Seaside3'
-			with: [ spec loads: #('Javascript-Tests-Core') ].
+			with: [ spec loads: #('Javascript-Tests-Core' 'Seaside-Development') ].
 	spec
 		baseline: 'Willow'
 			with: [ spec
