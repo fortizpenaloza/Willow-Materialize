@@ -7,9 +7,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"content",
-		"additionalFooterButtons",
 		"footerCloseButton",
-		"dialogCommand"
+		"dialogCommand",
+		"footerButtons"
 	],
 	"name" : "MaterializeModalBuilder",
 	"type" : "normal"

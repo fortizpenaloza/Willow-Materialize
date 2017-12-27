@@ -1,4 +1,4 @@
-building
+configuring
 addFooterButton: aButton
 
-	additionalFooterButtons add: aButton
+	footerButtons add: aButton

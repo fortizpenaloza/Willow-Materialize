@@ -3,6 +3,6 @@ buildApplying: aDocumentCommand
 
 	^ MaterializeModalWebView
 		withContent: content
-		footer: (MaterializeModalFooterWebView containing: additionalFooterButtons andCloseButton: footerCloseButton)
+		footer: (MaterializeModalFooterWebView containing: footerButtons)
 		applyingToDialog: dialogCommand
 		andModalDocument: aDocumentCommand

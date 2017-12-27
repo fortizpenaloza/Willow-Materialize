@@ -1,7 +1,7 @@
 initialization
-initializeWithContent: aBodyView footer: aBootstrapModalFooter applyingToDialog: aDialogCommand andToDocument: aModalDocumentCommand
+initializeWithContent: aBodyView footer: aMaterializeModalFooter applyingToDialog: aDialogCommand andToDocument: aModalDocumentCommand
 
-	footer := aBootstrapModalFooter.
+	footer := aMaterializeModalFooter.
 	dialog := GenericContainerWebView
 		wrapping: [ :canvas | 
 			| content |

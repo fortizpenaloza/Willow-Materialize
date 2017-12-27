@@ -1,4 +1,4 @@
 accessing
 method
 
-	^ MaterializeConstants  modal
+	^ MaterializeConstants modal

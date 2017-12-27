@@ -3,10 +3,7 @@ initialize
 
 	super initialize.
 	content := ''.
-	footerCloseButton := MaterializeModalFooterWebView
-		closeButtonLabeled: 'Close'
-		applying: [  ].
-	additionalFooterButtons := OrderedCollection new.
+	footerButtons := OrderedCollection new.
 	dialogCommand := (ComponentScriptCommand
 		toExecute: [ :canvas | canvas jQuery this materializeModal ])
 		+
