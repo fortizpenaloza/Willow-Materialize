@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JQPlugin",
+	"category" : "Willow-Materialize-Plugins",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaterializeChips",
+	"type" : "normal"
+}
