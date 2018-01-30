@@ -1,4 +1,4 @@
-as yet unclassified
+Modal
 modalClose
 
 	^ 'modal-close'

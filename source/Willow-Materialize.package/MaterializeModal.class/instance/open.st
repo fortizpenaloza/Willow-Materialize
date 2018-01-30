@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 open
 
-	functionName := 'open'
+	functionName := MaterializeConstants open

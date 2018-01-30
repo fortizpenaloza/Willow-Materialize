@@ -1,4 +1,4 @@
-as yet unclassified
+Buttons
 buttonFloating
 
 	^ 'btn-floating'

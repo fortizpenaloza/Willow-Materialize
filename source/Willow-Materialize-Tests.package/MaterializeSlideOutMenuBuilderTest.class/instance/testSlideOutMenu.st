@@ -32,4 +32,4 @@ testSlideOutMenu
 	self
 		assert: html
 		equals:
-			'<ul class="sidenav"><li><a><i class="material-icons">cloud</i>First Link With Icon</a></li><li><a>Second Link</a></li><li><div class="divider"></div></li><li><a class="subheader">Subheader</a></li><li><a class="waves-effect">Third Link With Waves</a></li></ul><script type="text/javascript">$(".sidenav").sidenav();</script>'
+			'<ul class="sidenav"><li><a role="button"><i class="material-icons">cloud</i>First Link With Icon</a></li><li><a role="button">Second Link</a></li><li><div class="divider"></div></li><li><a class="subheader">Subheader</a></li><li><a class="waves-effect">Third Link With Waves</a></li></ul><script type="text/javascript">$(".sidenav").sidenav();</script>'

@@ -1,4 +1,4 @@
-as yet unclassified
+Modal
 modalAction
 
 	^ 'modal-action'
