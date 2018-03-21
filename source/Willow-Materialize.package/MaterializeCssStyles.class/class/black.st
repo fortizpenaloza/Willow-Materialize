@@ -1,0 +1,4 @@
+Color Palette
+black
+
+	^ 'black'

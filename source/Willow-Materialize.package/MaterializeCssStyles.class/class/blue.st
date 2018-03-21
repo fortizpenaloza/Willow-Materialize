@@ -1,0 +1,4 @@
+Color Palette
+blue
+
+	^ 'blue'

@@ -10,14 +10,14 @@ testSlideOutMenu
 			(componentSupplier slideOutMenuBuilder
 				addElement:
 					(componentSupplier
-						asynchronicAnchorLabeled: [ :canvas | 
+						asynchronicLinkLabeled: [ :canvas | 
 							canvas icon
 								class: 'material-icons';
 								with: 'cloud'.
 							canvas
 								render: 'First Link With Icon' ]
-						applying: [ :anchor |  ]);
-				addElement: (componentSupplier asynchronicAnchorLabeled: 'Second Link' applying: [ :anchor |  ]);
+						applying: []);
+				addElement: (componentSupplier asynchronicLinkLabeled: 'Second Link' applying: []);
 				addDivider;
 				addElement: [ :item | 
 					item anchor
@@ -32,4 +32,4 @@ testSlideOutMenu
 	self
 		assert: html
 		equals:
-			'<ul class="sidenav"><li><a role="button"><i class="material-icons">cloud</i>First Link With Icon</a></li><li><a role="button">Second Link</a></li><li><div class="divider"></div></li><li><a class="subheader">Subheader</a></li><li><a class="waves-effect">Third Link With Waves</a></li></ul><script type="text/javascript">$(".sidenav").sidenav();</script>'
+			'<ul class="sidenav"><li><a id="a-id1"><i class="material-icons">cloud</i>First Link With Icon</a></li><li><a id="a-id2">Second Link</a></li><li><div class="divider"></div></li><li><a class="subheader">Subheader</a></li><li><a class="waves-effect">Third Link With Waves</a></li></ul><script type="text/javascript">$("#a-id1").click(function(event){arguments[0].preventDefault()});$("#a-id2").click(function(event){arguments[0].preventDefault()});$(".sidenav").sidenav();</script>'

@@ -1,4 +1,4 @@
 Grid System
 columnSmall: aColumnCount
 
-	^'s<1p>' expandMacrosWith: aColumnCount 
+	^'col s<1p>' expandMacrosWith: aColumnCount 

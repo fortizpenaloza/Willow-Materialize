@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
-	"super" : "WAPresenter",
-	"category" : "Willow-Materialize-Views",
+	"super" : "WAPainter",
+	"category" : "Willow-Materialize-WebViews",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

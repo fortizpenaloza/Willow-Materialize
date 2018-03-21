@@ -1,0 +1,4 @@
+Text
+centerAlign
+
+	^ 'center-align'

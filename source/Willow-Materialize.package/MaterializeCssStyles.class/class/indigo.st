@@ -1,0 +1,4 @@
+Color Palette
+indigo
+
+	^ 'indigo'

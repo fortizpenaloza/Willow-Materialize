@@ -1,4 +1,7 @@
 Interaction
-addStatementsTo: aJSScript toCloseDialogsIn: jQueryMatchingDialogContainer matching: dialogSupplier on: aCanvas 
+addStatementsTo: aJSScript toCloseDialogsIn: jQueryMatchingDialogContainer matching: dialogSupplier on: aCanvas
 
-	aJSScript << (dialogSupplier value: (jQueryMatchingDialogContainer children: 'div')) materializeModal close
+	aJSScript
+		<<
+			(dialogSupplier value: (jQueryMatchingDialogContainer children: 'div')) materializeModal
+				close
