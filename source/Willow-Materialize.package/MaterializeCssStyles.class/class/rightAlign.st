@@ -1,0 +1,4 @@
+Text
+rightAlign
+
+	^ 'right-align'
