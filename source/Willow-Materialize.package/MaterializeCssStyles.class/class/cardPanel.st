@@ -1,4 +1,4 @@
-as yet unclassified
+Cards
 cardPanel
 
 	^ 'card-panel'
