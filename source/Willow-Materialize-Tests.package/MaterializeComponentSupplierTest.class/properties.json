@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "WillowTestCase",
+	"super" : "WARenderingTest",
 	"category" : "Willow-Materialize-Tests-Frontend",
 	"classinstvars" : [ ],
 	"pools" : [ ],
