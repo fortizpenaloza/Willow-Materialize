@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "WillowOnlineLibrary",
+	"super" : "WAOnlineLibrary",
 	"category" : "Willow-Materialize-Libraries",
 	"classinstvars" : [ ],
 	"pools" : [ ],
