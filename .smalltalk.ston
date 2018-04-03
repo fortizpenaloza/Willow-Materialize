@@ -1,0 +1,18 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'WillowMaterialize',
+      #directory : 'source',
+      #load : [ 'Development' ],
+      #platforms : [  #pharo ]
+    }
+  ],
+  #testing : {
+    #coverage : {
+       #packages : [  'Willow-Materialize*' ]
+    },
+    #include : {
+       #packages : [ 'Willow-Materialize*-Tests' ]
+    }
+  }
+}
