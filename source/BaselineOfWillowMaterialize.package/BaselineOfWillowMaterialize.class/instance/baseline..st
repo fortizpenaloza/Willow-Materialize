@@ -9,5 +9,5 @@ baseline: spec
 				package: 'Willow-Materialize-Tests' with: [ spec requires: #('Willow-Materialize' 'Willow-Tests') ].
 			spec
 				group: 'Deployment' with: #('Willow-Materialize');
-				group: 'Development' with: #('Willow-Materialize-Tests');
+				group: 'Development' with: #('Willow-Materialize-Tests' 'Seaside3');
 				group: 'default' with: #('Deployment') ]
