@@ -3,5 +3,4 @@ addStatementsTo: aJSScript toCloseDialogsIn: jQueryMatchingDialogContainer match
 
 	aJSScript
 		<<
-			(dialogSupplier value: (jQueryMatchingDialogContainer children: 'div')) materializeModal
-				close
+			(dialogSupplier value: (jQueryMatchingDialogContainer html: ''))
